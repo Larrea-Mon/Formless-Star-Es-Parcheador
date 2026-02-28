@@ -1,6 +1,6 @@
 ## ﻿PARCHEADOR FORMLESS STAR
 * Solo funciona con una copia descargada desde https://splendidland.itch.io/formless-star ¡¡SIN MODIFICAR!!
-* Sólo funciona en windows.
+* Solo funciona en windows.
 * Puedes clicar el .exe o usarlo desde la línea de comandos.
 * Ante cualquier error mandale un mail a gorkalarreamontoya@gmail.com
 
