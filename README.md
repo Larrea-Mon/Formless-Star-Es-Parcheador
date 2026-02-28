@@ -39,4 +39,4 @@ GRÁFICOS
 - Rodrigo “Ro” González Portela
 
 PARCHEADOR
-Larrea
+- Larrea
