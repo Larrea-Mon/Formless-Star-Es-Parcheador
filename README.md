@@ -29,14 +29,14 @@ Esc/Alt - abrir y cerrar el menú principal
 
 
 TRADUCCIÓN
-Fran Og
-Larrea
-Rodrigo “Ro” González Portela
+- Fran Og
+- Larrea
+- Rodrigo “Ro” González Portela
 
 GRÁFICOS
-Fran Og
-Larrea
-Rodrigo “Ro” González Portela
+- Fran Og
+- Larrea
+- Rodrigo “Ro” González Portela
 
 PARCHEADOR
 Larrea
