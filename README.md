@@ -1,14 +1,14 @@
 ## ﻿PARCHEADOR FORMLESS STAR
 * Solo funciona con una copia descargada desde https://splendidland.itch.io/formless-star ¡¡SIN MODIFICAR!!
 * Solo funciona en windows.
-* Puedes clicar el .exe o usarlo desde la línea de comandos.
-* Ante cualquier error mandale un mail a gorkalarreamontoya@gmail.com
+* Para usar el parcheador, descarga el .7z desde [aquí](https://github.com/Larrea-Mon/Formless-Star-Es-Parcheador/releases)
+* Descomprime el .7z y coloca el parcheador .exe en la misma carpeta que FormlessStar.rpg y FormlessStar.exe
+* Clica en el .exe 
+* Presta un poco de atención a la línea de comandos y si hay algún error mándalo a gorkalarreamontoya@gmail.com
 
-El botón de descargas está [aquí](https://github.com/Larrea-Mon/Formless-Star-Es-Parcheador/releases)
 
-INSTRUCCIONES DE JUEGO
-### Formless Star - creado por samanthuel louise gillson (splendidland)
-
+### INSTRUCCIONES DE JUEGO
+Formless Star - creado por samanthuel louise gillson (splendidland)
 
 ¡Hola, te damos la bienvenida a Formless Star!
 
