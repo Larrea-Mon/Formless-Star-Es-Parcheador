@@ -58,7 +58,7 @@ def main():
     if exe_hash != EXPECTED_MD5_EXE:
         print(f"Error: El archivo {TARGET_EXE} no coincide con el esperado. Asegúrate de tener la versión correcta del juego.")
         input("Presiona Enter para salir.")
-        sys.exit(1)  # you were missing exit here
+        sys.exit(1)
 
     print(f"Verificando integridad de {TARGET_RPG}...")
     rpg_hash = md5_of_file(TARGET_RPG)

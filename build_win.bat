@@ -1,1 +1,1 @@
-pyinstaller --add-data="parche-exe.bsdiff;." --add-data="parche-rpg.bsdiff;." .\parche-bsdiff-formless-star-v02.py -D -F
+pyinstaller --add-data="parche-exe.bsdiff;." --add-data="parche-rpg.bsdiff;." .\parche-bsdiff-formless-star.py -D -F
